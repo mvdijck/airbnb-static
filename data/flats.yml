@@ -4,7 +4,7 @@ seb:
   picture: card-paris.jpg
   owner_picture: seb.png
   name: Seb's home
-  summary: Charming room in Montmartre
+  description: Charming room in Montmartre
   city: Paris, France
   wifi: true
 romain:
@@ -12,7 +12,7 @@ romain:
   picture: card-london.jpeg
   owner_picture: romain.png
   name: Romain's home
-  summary: Nice flat in Piccadilly
+  description: Nice flat in Piccadilly
   city: London, UK
   wifi: false
 anne:
@@ -20,6 +20,6 @@ anne:
   picture: card-brussels.jpeg
   owner_picture: anne.png
   name: Anne's home
-  summary: Nice flat in the center of Brussels
+  description: Nice flat in the center of Brussels
   city: Brussels, Belgium
   wifi: true
